@@ -5,7 +5,6 @@ funkcjonalności:
 logowanie, kupowanie przedmiotów, wystawianie/sprzedawanie przedmiotów
 
 kategorie użytkowników:
-admin: prawa dostępu, widoczność poszczególnych elementów
 użytkownik niezalogowany
 użytkownik zalogowany: kupowanie/sprzedawanie przedmiotów
 
