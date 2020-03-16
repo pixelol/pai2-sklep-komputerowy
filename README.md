@@ -1,0 +1,1 @@
+# pai2-sklep-komputerowy
