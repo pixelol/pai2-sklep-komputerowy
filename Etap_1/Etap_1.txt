@@ -1,0 +1,20 @@
+temat: 
+sklep z częściami komputerowymi
+
+funkcjonalności: 
+logowanie, kupowanie przedmiotów, wystawianie/sprzedawanie przedmiotów
+
+kategorie użytkowników:
+admin: prawa dostępu, widoczność poszczególnych elementów
+użytkownik niezalogowany
+użytkownik zalogowany: kupowanie/sprzedawanie przedmiotów
+
+technologie:
+Java, Spring, Angular, MySQL
+
+Skład zespołu:
+Kamil Moćko
+
+temat z przedmiotu "Inżynieria systemów informacyjnych": restauracja
+temat z przedmiotu "Podstawy inżynierii programowania": bank
+temat pracy inżynierskiej: liczby rozmyte
