@@ -1,0 +1,26 @@
+Nazwa: Dokonaj zakupu
+Inicjator: Zalogowany użytkownik
+Cel: Kupić przedmiot
+Główny scenariusz:
+1. Kupujący dodaje akcesoria komputerowe do koszyka
+2. System wyświetla informacje o poszczególnych akcesoriach
+3. Kupujący podaje swoje dane potrzebne do dostarczenia zakupów
+4. Kupujący wybiera sposób płatności
+5. System nadaje zamówienie i przypisuje mu identyfikator
+Rozszerzenia:
+1a. Przedmiot niedostępny
+a. System przedstawia inne oferty do wyboru
+b. Kupujący dokonuje wyboru
+1b. Przedmiot do wyrzucenia z koszyka
+a. Kupujący wyrzuca przedmiot z koszyka
+
+Nazwa: Przejrzyj oferty
+Inicjator: Niezalogowany użytkownik
+Cel: Obejrzenie akcesoriów
+Główny scenariusz:
+1. Obserwujący przegląda akcesoria komputerowe (bez możliwości kupna bez zalogowania)
+2. System wyświetla informacje o poszczególnych akcesoriach
+Rozszerzenia:
+1a. Obserwujący podejmuje decyzję o kupnie przedmiotu
+a. Obserwujący loguje się
+b. Obserwujący kupuje przedmiot

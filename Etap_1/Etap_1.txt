@@ -5,7 +5,7 @@ funkcjonalności:
 logowanie, kupowanie przedmiotów, wystawianie/sprzedawanie przedmiotów
 
 kategorie użytkowników:
-użytkownik niezalogowany
+użytkownik niezalogowany: przeglądanie przedmiotów
 użytkownik zalogowany: kupowanie/sprzedawanie przedmiotów
 
 technologie:
